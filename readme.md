@@ -4,7 +4,7 @@
 
 # 📌 ** Project Link 👇** 
 
-**[Product_Landing_Homepage](https://timely-mandazi-50e3ba.netlify.app/)**
+**[Product_Landing_Homepage]https://cute-kelpie-944156.netlify.app/)**
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
